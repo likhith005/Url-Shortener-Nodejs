@@ -35,7 +35,8 @@ To start the project, follow these steps:
 
 - HTML
 - Bootstrap
-- JavaScript (including React.js)
+- JavaScript
+- React.js
 - Node.js
 
 ## Contributing
